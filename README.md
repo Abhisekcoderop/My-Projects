@@ -1,2 +1,2 @@
-# My-Projects
-This are my all projects that i do for practicing
+# AMAZON Clone
+I made this to Practice HTML AND CSS
